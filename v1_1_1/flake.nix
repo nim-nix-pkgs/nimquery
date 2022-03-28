@@ -11,7 +11,6 @@
   inputs.src-nimquery-v1_1_1.ref   = "refs/tags/v1.1.1";
   inputs.src-nimquery-v1_1_1.owner = "GULPF";
   inputs.src-nimquery-v1_1_1.repo  = "nimquery";
-  inputs.src-nimquery-v1_1_1.dir   = "";
   inputs.src-nimquery-v1_1_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
