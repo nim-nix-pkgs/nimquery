@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-nimquery-master": "src-nimquery-master"
+        "src-nimquery-v2_0_0": "src-nimquery-v2_0_0"
       }
     },
-    "src-nimquery-master": {
+    "src-nimquery-v2_0_0": {
       "flake": false,
       "locked": {
         "lastModified": 1654629123,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "GULPF",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v2.0.0",
         "repo": "nimquery",
         "type": "github"
       }
